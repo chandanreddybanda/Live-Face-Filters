@@ -2,7 +2,7 @@
 """
 Created on Sat Jul 13 22:54:17 2019
 
-@author: sanja
+@author: cbanda
 """
 
 import cv2
